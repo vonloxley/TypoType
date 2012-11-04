@@ -1,0 +1,14 @@
+keycode  95 = U201E 201D
+keycode  96 = leftdoublequotemark U201C
+keycode  47 = odiaeresis Odiaeresis U201E doubleacute U201E doubleacute
+keycode  48 = adiaeresis Adiaeresis leftdoublequotemark asciicircum leftdoublequotemark asciicircum
+keycode  51 = numbersign  apostrophe U2019 U2019 U2019
+
+keycode  60 = period colon U2026 division U2026 division
+keycode  61 = minus underscore endash emdash endash emdash
+
+keycode  41 = f F dstroke ordfeminine UFB00 ordfeminine
+keycode  31 = i I rightarrow idotless UFB01 idotless
+keycode  46 = l L lstroke Lstroke UFB02 Lstroke
+
+keycode 105 = Control_R Multi_key
